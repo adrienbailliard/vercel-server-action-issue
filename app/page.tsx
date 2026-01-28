@@ -1,6 +1,8 @@
 export default function Home()
 {
   return (
-    <p>Homepage. Go to <a href="/404">not-found.js</a>.</p>
+    <>
+      <p>Homepage. Go to <a href="/404">not-found.js</a> to test the issue.</p>
+    </>
   );
 }
